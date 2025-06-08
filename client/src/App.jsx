@@ -4,7 +4,7 @@ import Result from './pages/Result'
 import BuyCredit from './pages/BuyCredit'
 import { Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 import Login from './components/Login'
 import { AppContext } from './context/AppContext'
   import { ToastContainer } from 'react-toastify';
